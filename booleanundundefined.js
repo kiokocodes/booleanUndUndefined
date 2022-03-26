@@ -35,3 +35,4 @@ console.log('Mein name ist ' + name + ' und ich bin ' + age + ' jahre alt');
 //ES6 Template Strings
 
 console.log(`Mein name ist ${name} und ich bin ${age} jahre alt`);
+
